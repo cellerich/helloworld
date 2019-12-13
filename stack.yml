@@ -6,4 +6,5 @@ functions:
   helloworld:
     lang: go
     handler: ./helloworld
-    image: cellerich/openfaas-cloud-celleri-ch/helloworld:latest
+    image: cellerich/helloworld:latest
+
